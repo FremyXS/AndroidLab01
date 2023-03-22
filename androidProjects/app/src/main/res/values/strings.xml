@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab01</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="product" color="#1C1B1F">Product</string>
+    <string name="swaitc_title">Меняет цвет фона карточки выше при переключении</string>
+</resources>
